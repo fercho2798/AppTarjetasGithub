@@ -4,7 +4,7 @@ import { useState } from 'react';
 
 import './App.css'
 import axios from 'axios';
-
+//aqui estan lod datos quemados de las tarjetas github
 const testData = [
   {name: "Alexander Chinchin", avatar_url: "https://avatars.githubusercontent.com/u/52291881?v=4", company: "@Github"},
     {name: "Francisco Jumbo", avatar_url: "https://avatars.githubusercontent.com/u/61259614?v=4", company: "@Github"},
